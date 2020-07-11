@@ -61,7 +61,7 @@
     margin-bottom: 30px;
     width: 250px;
     margin: 0px 30px;
-    box-shadow: 6px 6px 12px rgb(255, 152, 233);      
+    box-shadow: 5px 5px 10px rgb(255, 152, 233);      
 }
 .light-blue-bg img{
     height: 40%;
@@ -85,4 +85,112 @@
 }
 .card-body h6{
     font-weight: 400;
+}
+.calendar img{
+    height: 70%;
+    width: 24%;
+    padding-top: 25px;
+}
+.calendar p{
+    padding-left: 15px;
+    padding-top: 25px;
+}
+.calendar{
+    width: 170px;
+}
+.card-footer{
+    background-color: transparent;
+    border-top: transparent;
+}
+.display-in-line{
+    display:inline-flex;
+}
+.display-in-line img{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 353px;
+    top: 1787px;
+}
+.display-in-line p{
+    position: absolute;
+    width: 580px;
+    height: 90px;
+    left: 525px;
+    top: 1796px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 30px;
+}
+#last-section{
+    
+    height: 350px;
+    background-color: #282531;
+    color: wheat;
+}
+#millions{
+    position: absolute;
+    width: 364px;
+    height: 60px;
+    left: 143px;
+    top: 2068px;
+    color: rgba(255, 244, 223, 0.884);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+#footer-courses{
+    position: absolute;
+    width: 123px;
+    height: 181px;
+    left: 633px;
+    top: 2068px;
+    color: rgba(255, 244, 223, 0.884);
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+#footer-terms{
+    position: absolute;
+    width: 123px;
+    height: 180px;
+    left: 897px;
+    top: 2068px;
+    color: rgba(255, 244, 223, 0.884);
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+#footer-link{
+    position: absolute;
+width: 123px;
+height: 180px;
+left: 1181px;
+top: 2068px;
+color: rgba(255, 244, 223, 0.884);
+font-family: Poppins;
+font-style: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.bold{
+    font-weight: bold;
+}
+#last-paragraph{
+position: absolute;
+top: 2325px;
+padding-left: 536px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 30px;
+color: violet;
 }
