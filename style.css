@@ -1,0 +1,88 @@
+#first-section{
+    background-color: #F0FFF0;
+}
+.green-button{
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 9px 25px;
+    
+}
+.green-button:hover {
+    background-color: #008CBA;
+    color: black;
+    transition-duration: 0.4s;
+}
+#second-container-margin{
+    margin-left: 20px;
+}
+#orange-text{
+    color: #FD511A;
+}
+#green-text{
+    color: #21B573;
+  }
+.green-bg{
+    background-color: #F0FFF0;                                          
+    height: 400px;
+  }
+#first-h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+.illustration-margin-left{
+    margin-left: 85px;
+    margin-top: 45px;
+}
+.col-md-3 img{
+    height: 150px;
+}
+.col-md-3 h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+}
+.col-md-3 h3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300 ;
+    font-size: 14px;
+}
+.light-blue-bg{
+    background-color: #effff5;
+    padding-top: 50px;
+    padding-left: 60px;
+    height: 260px;
+    margin-bottom: 30px;
+    width: 250px;
+    margin: 0px 30px;
+    box-shadow: 6px 6px 12px rgb(255, 152, 233);      
+}
+.light-blue-bg img{
+    height: 40%;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.white-bg{
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 60px;
+    height: 260px;
+    width: 250px;
+    margin-bottom: 30px;
+    margin: 0px 30px;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+.white-bg img{
+    height: 40%;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.card-body h6{
+    font-weight: 400;
+}
