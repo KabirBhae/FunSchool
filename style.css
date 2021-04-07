@@ -102,22 +102,27 @@
     background-color: transparent;
     border-top: transparent;
 }
+#testimonial{
+    text-align: center;
+}
 .display-in-line{
-    display:inline-flex;
+    /* display:flex;
+    justify-content-center */
 }
 .display-in-line img{
-    position: absolute;
     width: 120px;
     height: 120px;
-    left: 353px;
-    top: 1787px;
+    margin-right: 40px;
+    /* position: absolute; */
+    /* left: 353px;
+    top: 1787px; */
 }
 .display-in-line p{
-    position: absolute;
+    /* position: absolute;
     width: 580px;
     height: 90px;
     left: 525px;
-    top: 1796px;
+    top: 1796px; */
 
     font-family: Poppins;
     font-style: normal;
@@ -126,17 +131,19 @@
     line-height: 30px;
 }
 #last-section{
-    
-    height: 400px;
+    height: 330px;
     background-color: #282531;
     color: wheat;
 }
+.row{
+    padding-top: 40px;
+}
 #millions{
-    position: absolute;
+    /* position: absolute;
     width: 364px;
     height: 60px;
     left: 143px;
-    top: 2068px;
+    top: 2068px; */
     color: rgba(255, 244, 223, 0.884);
     font-family: Poppins;
     font-style: normal;
@@ -145,11 +152,11 @@
     line-height: 30px;
 }
 #footer-courses{
-    position: absolute;
+    /* position: absolute;
     width: 123px;
     height: 181px;
     left: 633px;
-    top: 2068px;
+    top: 2068px; */
     color: rgba(255, 244, 223, 0.884);
     font-family: Poppins;
     font-style: normal;
@@ -157,11 +164,11 @@
     line-height: 30px;
 }
 #footer-terms{
-    position: absolute;
+    /* position: absolute;
     width: 123px;
     height: 180px;
     left: 897px;
-    top: 2068px;
+    top: 2068px; */
     color: rgba(255, 244, 223, 0.884);
     font-family: Poppins;
     font-style: normal;
@@ -169,11 +176,12 @@
     line-height: 30px;
 }
 #footer-link{
-    position: absolute;
+    /* position: absolute;
     width: 123px;
     height: 180px;
     left: 1181px;
     top: 2068px;
+    border: solid 1px red; */
     color: rgba(255, 244, 223, 0.884);
     font-family: Poppins;
     font-style: normal;
@@ -182,11 +190,9 @@
 }
 .bold{
     font-weight: bold;
+    font-size: 16px;
 }
 #last-paragraph{
-position: absolute;
-top: 2325px;
-padding-left: 536px;
 font-family: Poppins;
 font-style: normal;
 font-weight: 300;
