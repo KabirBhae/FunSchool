@@ -38,6 +38,19 @@
     margin-left: 85px;
     margin-top: 45px;
 }
+@media screen and (max-width: 575px) {
+    .illustration-margin-left{
+        margin-left: 85px;
+        margin-top: 80px;
+    }
+    #first-col-md-3{
+        margin-top:160px;
+    }
+    .col-md-3{
+        margin-top: 25px;
+        margin-left: 85px;
+    }
+  }
 .col-md-3 img{
     height: 150px;
 }
@@ -190,7 +203,7 @@
 }
 .bold{
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
 }
 #last-paragraph{
 font-family: Poppins;
@@ -199,4 +212,14 @@ font-weight: 300;
 font-size: 14px;
 line-height: 30px;
 color: violet;
+text-align: center;
+margin-top:40px;
 }
+@media screen and (max-width: 575px) {
+    #last-section{
+        height: 700px;
+    }
+    #last-paragraph{
+        text-align: center;
+    }
+  }
